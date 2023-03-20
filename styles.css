@@ -13,7 +13,7 @@ li{
 .player_one div{
    
 	height:140px;
-	background-color:rgb(255, 255, 255);
+	background-color:rgb(255,255, 255);
 	border-radius:5px;
 	border:1px solid black;
 	margin:10px;
@@ -39,4 +39,7 @@ h1{
 }
 .play{
 	text-align:center;
+}
+div.player_one,.player_two{
+	background-color:rgba(0,0,0,0);
 }
